@@ -1,0 +1,12 @@
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csprojResolveAssemblyReference.cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.GenerateResource.Cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.exe
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\bin\Debug\FormUI.pdb
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\bin\Debug\Dapper.dll
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\bin\Debug\Dapper.xml
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.exe
+C:\Users\areese\Documents\Visual Studio 2017\Projects\SQLDataAccessDemo\FormUI\obj\Debug\FormUI.pdb
